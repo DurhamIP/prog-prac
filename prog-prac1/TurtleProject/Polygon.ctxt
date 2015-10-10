@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=numberOfSides\ lengthOfSide
+comment0.target=Polygon(int,\ int)
+comment0.text=\n\ Create\ a\ polygon\ of\ "numberOfSides"\ sides\ of\ length\ "lengthOfSide".\n
+comment1.params=numberOfSides\ lengthOfSide\ p
+comment1.target=Polygon(int,\ int,\ Polygon)
+comment1.text=\n\ Create\ a\ polygon\ of\ "numberOfSides"\ sides\ of\ length\ "lengthOfSide"\ with\ a\ polygon\ "p"\ at\ each\ point.\n
+comment2.params=value
+comment2.target=void\ setVisible(boolean)
+comment2.text=\n\ Set\ whether\ this\ polygon\ is\ visible\ to\ "value".\ \n
+comment3.params=c
+comment3.target=void\ setColor(java.awt.Color)
+comment3.text=\n\ Set\ this\ polygon\ to\ be\ colour\ "c".\ \n
+comment4.params=
+comment4.target=boolean\ isVisible()
+comment4.text=\n\ Indicate\ whether\ this\ polygon\ is\ visible\ or\ invisible.\n
+comment5.params=
+comment5.target=int\ getInteriorAngle()
+comment5.text=\n\ Obtain\ the\ interior\ angle\ of\ this\ polygon.\n
+comment6.params=
+comment6.target=int\ getLengthOfSide()
+comment6.text=\n\ Obtain\ the\ length\ of\ side\ of\ this\ polygon.\n
+numComments=7

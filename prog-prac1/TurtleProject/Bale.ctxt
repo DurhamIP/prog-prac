@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bale()
+comment0.text=\n\ Create\ a\ new\ bale.\n
+comment1.params=distance
+comment1.target=void\ forward(int)
+comment1.text=\ \n\ Instruct\ all\ the\ Turtles\ in\ this\ bale\ to\ move\ "distance"\ forwards.\n
+comment2.params=angle
+comment2.target=void\ left(int)
+comment2.text=\n\ Instruct\ all\ the\ Turtles\ in\ this\ bale\ to\ rotate\ left\ through\ "angle"\ degrees.\n
+comment3.params=angle
+comment3.target=void\ right(int)
+comment3.text=\n\ Instruct\ all\ the\ Turtles\ in\ this\ bale\ to\ rotate\ right\ through\ "angle"\ degrees.\n
+comment4.params=
+comment4.target=void\ penUp()
+comment4.text=\n\ Instruct\ all\ the\ Turtles\ in\ this\ bale\ to\ raise\ their\ pens.\n
+comment5.params=
+comment5.target=void\ penDown()
+comment5.text=\n\ Instruct\ all\ the\ Turtles\ in\ this\ bale\ to\ lower\ their\ pens.\n
+comment6.params=
+comment6.target=boolean\ arePensDown()
+comment6.text=\n\ Enquire\ as\ to\ whether\ all\ the\ Turtles\ in\ this\ bale\ have\ lowered\ their\ pens.\n
+numComments=7
