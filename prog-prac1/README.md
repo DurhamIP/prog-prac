@@ -1,9 +1,9 @@
-#Introduction to Programming
+# Introduction to Programming
 
-##Practical 1 
-##Introducing BlueJ, Java and object modelling.
+## Practical 1 
+## Introducing BlueJ, Java and object modelling.
 
-###Instructions
+### Instructions
 
 Download the example files you need for this practical from github. Do this by clicking on the "Clone in Desktop" or "Download ZIP" buttons on the right-hand side of the git page.
 
@@ -15,7 +15,7 @@ If you need help with it please see this tutorial to get you started:
 
 <http://www.bluej.org/tutorial/tutorial-201.pdf>
 
-###Level 1: Interacting with BlueJ
+### Level 1: Interacting with BlueJ
 
 1. Using the _Picture_ example project in BlueJ, create an image of a house and a
 sun. While you are doing this, write down what you have to do to achieve this.
@@ -48,7 +48,7 @@ class, then print out the lab class details. Look at what happens when you try t
 enrol more students than there is capacity for.
 (BlueJ ex. 1.17-1.21) 
 
-###Level 2: Starting to Program
+### Level 2: Starting to Program
 
 1. Using the Picture example project in BlueJ again, create an instance of the
 Picture class and draw it to look at the picture produced. Now open the object to
@@ -85,7 +85,7 @@ something to change the capacity for the lab.
          printList();
         } 
 
-###Level 3: Modelling Objects
+### Level 3: Modelling Objects
 
 We are starting to look at how to model objects, so here we would like you to
 have a go at thinking about how to model some objects. Remember that objects

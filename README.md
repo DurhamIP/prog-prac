@@ -1,4 +1,4 @@
-#Programming Practicals at Durham
+# Programming Practicals at Durham
 
 These practicals are probably the most important part of learning to
 programming. Lectures are offered in support of the practicals, rather
